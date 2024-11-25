@@ -7,7 +7,6 @@ wwwroot/lib/*
 tests/TestResults/*
 src/Migrations/
 src/hello*
-src/My*
 temp
 db
 log
